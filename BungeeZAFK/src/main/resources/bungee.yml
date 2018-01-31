@@ -1,0 +1,5 @@
+name: BungeeZAFK
+main: me.gbalint.bungeezafk.BungeeZAFK
+version: 0.1
+author: gbalint
+depend: ['BungeeTabListPlus']
